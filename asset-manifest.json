@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/malashonock-JSFE2022Q1/online-store/static/css/main.72278a6f.css",
+    "main.js": "/malashonock-JSFE2022Q1/online-store/static/js/main.78edbf0f.js",
+    "static/media/bootstrap-icons.woff?": "/malashonock-JSFE2022Q1/online-store/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/malashonock-JSFE2022Q1/online-store/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/malashonock-JSFE2022Q1/online-store/index.html",
+    "main.72278a6f.css.map": "/malashonock-JSFE2022Q1/online-store/static/css/main.72278a6f.css.map",
+    "main.78edbf0f.js.map": "/malashonock-JSFE2022Q1/online-store/static/js/main.78edbf0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72278a6f.css",
+    "static/js/main.78edbf0f.js"
+  ]
+}
